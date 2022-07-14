@@ -32,7 +32,7 @@
   },
   "peerDependencies": {
     "swiper": "^6.8.4",
-    "vue": "2.6.x || 2.7.x"
+    "vue": "2.7.x"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.15",
